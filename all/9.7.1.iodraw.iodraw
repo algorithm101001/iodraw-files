@@ -34,8 +34,8 @@
         <mxCell id="dwB0pcWYzV7RQTeKRLyS-10" value="等尺寸镜场的优化设计" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="347" y="210" width="76" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dwB0pcWYzV7RQTeKRLyS-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="390" width="60" height="30" as="geometry" />
+        <mxCell id="dwB0pcWYzV7RQTeKRLyS-12" value="差异化镜场的优化设计" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="210" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
