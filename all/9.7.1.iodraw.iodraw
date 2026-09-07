@@ -28,7 +28,7 @@
         <mxCell id="dwB0pcWYzV7RQTeKRLyS-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dwB0pcWYzV7RQTeKRLyS-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dwB0pcWYzV7RQTeKRLyS-9" value="给定布置方案的性能评估" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dwB0pcWYzV7RQTeKRLyS-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
