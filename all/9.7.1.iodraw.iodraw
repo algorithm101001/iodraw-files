@@ -25,6 +25,9 @@
         <mxCell id="dwB0pcWYzV7RQTeKRLyS-7" value="年平均光学效率&lt;div&gt;输出热功率&lt;/div&gt;&lt;div&gt;年平均输出热功率&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dwB0pcWYzV7RQTeKRLyS-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dwB0pcWYzV7RQTeKRLyS-8" target="dwB0pcWYzV7RQTeKRLyS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dwB0pcWYzV7RQTeKRLyS-8" value="尺寸与安装高度相同&lt;br&gt;年平均输出热功率（60MW）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="340" width="120" height="60" as="geometry" />
         </mxCell>
@@ -40,8 +43,8 @@
         <mxCell id="dwB0pcWYzV7RQTeKRLyS-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dwB0pcWYzV7RQTeKRLyS-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="dwB0pcWYzV7RQTeKRLyS-14" value="优化参数，" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
