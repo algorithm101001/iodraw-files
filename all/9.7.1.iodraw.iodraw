@@ -40,8 +40,11 @@
         <mxCell id="dwB0pcWYzV7RQTeKRLyS-12" value="&lt;b&gt;差异化镜场的优化设计&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="210" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dwB0pcWYzV7RQTeKRLyS-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dwB0pcWYzV7RQTeKRLyS-13" value="允许各定日镜尺寸与安装高度不同&lt;br&gt;相同额定功率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwB0pcWYzV7RQTeKRLyS-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dwB0pcWYzV7RQTeKRLyS-14" target="dwB0pcWYzV7RQTeKRLyS-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dwB0pcWYzV7RQTeKRLyS-14" value="优化参数，使单位镜面面积年平均输出热功率最大化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="250" width="120" height="60" as="geometry" />
