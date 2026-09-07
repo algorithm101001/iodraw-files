@@ -22,7 +22,7 @@
         <mxCell id="dwB0pcWYzV7RQTeKRLyS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dwB0pcWYzV7RQTeKRLyS-7" target="dwB0pcWYzV7RQTeKRLyS-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dwB0pcWYzV7RQTeKRLyS-7" value="求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dwB0pcWYzV7RQTeKRLyS-7" value="年平均光学效率&lt;div&gt;输出热功率&lt;/div&gt;&lt;div&gt;年平均输出热功率&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dwB0pcWYzV7RQTeKRLyS-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -35,7 +35,7 @@
           <mxGeometry x="347" y="210" width="76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dwB0pcWYzV7RQTeKRLyS-12" value="差异化镜场的优化设计" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="210" width="80" height="30" as="geometry" />
+          <mxGeometry x="560" y="210" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
