@@ -56,7 +56,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7bdyQj63tp-Iqpfc5Lgq-15" value="药材各处的水分浓度应低于 0.15 kg/kg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="290" width="82" height="40" as="geometry" />
+          <mxGeometry x="571.5" y="310" width="93" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
