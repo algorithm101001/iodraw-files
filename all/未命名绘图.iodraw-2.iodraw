@@ -52,7 +52,7 @@
         <mxCell id="env-KIRVxvZzWR0fpBb4-16" value="无人机" style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="569" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="env-KIRVxvZzWR0fpBb4-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="env-KIRVxvZzWR0fpBb4-18" value="信号采集与分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="460" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
