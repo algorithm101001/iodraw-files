@@ -39,17 +39,17 @@
         </mxCell>
         <mxCell id="env-KIRVxvZzWR0fpBb4-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=8;endSize=7.89;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="480" as="sourcePoint" />
-            <mxPoint x="240" y="480" as="targetPoint" />
+            <mxPoint x="160" y="513.5" as="sourcePoint" />
+            <mxPoint x="240" y="513.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="env-KIRVxvZzWR0fpBb4-14" value="固定监测站" style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="429" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="env-KIRVxvZzWR0fpBb4-15" value="" style="rounded=1;" vertex="1" parent="1">
+        <mxCell id="env-KIRVxvZzWR0fpBb4-15" value="移动监测车" style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="499" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="env-KIRVxvZzWR0fpBb4-16" value="初步监测" style="rounded=1;" vertex="1" parent="1">
+        <mxCell id="env-KIRVxvZzWR0fpBb4-16" value="无人机" style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="569" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
