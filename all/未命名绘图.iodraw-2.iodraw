@@ -31,7 +31,7 @@
         <mxCell id="env-KIRVxvZzWR0fpBb4-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="env-KIRVxvZzWR0fpBb4-2" target="env-KIRVxvZzWR0fpBb4-8" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="env-KIRVxvZzWR0fpBb4-10" value="Entry" style="rounded=1;" vertex="1" parent="1">
+        <mxCell id="env-KIRVxvZzWR0fpBb4-10" value="精准定位" style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="569" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="env-KIRVxvZzWR0fpBb4-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="env-KIRVxvZzWR0fpBb4-2" target="env-KIRVxvZzWR0fpBb4-10" parent="1">
@@ -39,8 +39,8 @@
         </mxCell>
         <mxCell id="env-KIRVxvZzWR0fpBb4-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=8;endSize=7.89;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="490" as="sourcePoint" />
-            <mxPoint x="260" y="490" as="targetPoint" />
+            <mxPoint x="160" y="480" as="sourcePoint" />
+            <mxPoint x="240" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
