@@ -28,7 +28,7 @@
         <mxCell id="oQoDP_6LNFBr41AlssIy-460" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" parent="1" source="oQoDP_6LNFBr41AlssIy-461" target="oQoDP_6LNFBr41AlssIy-463" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oQoDP_6LNFBr41AlssIy-461" value="你好" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="oQoDP_6LNFBr41AlssIy-461" value="圆柱形药材" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="170" y="80" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oQoDP_6LNFBr41AlssIy-462" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" parent="1" source="oQoDP_6LNFBr41AlssIy-463" target="oQoDP_6LNFBr41AlssIy-465" edge="1">
