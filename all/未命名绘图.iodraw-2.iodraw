@@ -37,7 +37,7 @@
         <mxCell id="env-KIRVxvZzWR0fpBb4-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="env-KIRVxvZzWR0fpBb4-2" target="env-KIRVxvZzWR0fpBb4-10" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="env-KIRVxvZzWR0fpBb4-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=8;endSize=7.89;" edge="1" parent="1">
+        <mxCell id="env-KIRVxvZzWR0fpBb4-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=8;endSize=7.89;" edge="1" parent="1" target="env-KIRVxvZzWR0fpBb4-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="513.5" as="sourcePoint" />
             <mxPoint x="240" y="513.5" as="targetPoint" />
@@ -51,6 +51,9 @@
         </mxCell>
         <mxCell id="env-KIRVxvZzWR0fpBb4-16" value="无人机" style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="569" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="env-KIRVxvZzWR0fpBb4-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="498.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
