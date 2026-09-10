@@ -64,7 +64,7 @@
         <mxCell id="7bdyQj63tp-Iqpfc5Lgq-18" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;b&gt;问题四&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="450" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7bdyQj63tp-Iqpfc5Lgq-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7bdyQj63tp-Iqpfc5Lgq-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
