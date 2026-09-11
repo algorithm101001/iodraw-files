@@ -13,7 +13,7 @@
         <mxCell id="UDrV9lbZebcjrm0VR6-d-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="UDrV9lbZebcjrm0VR6-d-1" target="UDrV9lbZebcjrm0VR6-d-2" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UDrV9lbZebcjrm0VR6-d-4" value="" style="rounded=1;" vertex="1" parent="1">
+        <mxCell id="UDrV9lbZebcjrm0VR6-d-4" value="温度场模型&#xa;径向导热方程&#xa;表面对流换热边界" style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="330" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UDrV9lbZebcjrm0VR6-d-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="UDrV9lbZebcjrm0VR6-d-2" target="UDrV9lbZebcjrm0VR6-d-4" parent="1">
