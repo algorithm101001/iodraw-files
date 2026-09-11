@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UDrV9lbZebcjrm0VR6-d-1" value="Start" style="ellipse" vertex="1" parent="1">
+        <mxCell id="UDrV9lbZebcjrm0VR6-d-1" value="" style="ellipse" vertex="1" parent="1">
           <mxGeometry x="-190" y="405" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UDrV9lbZebcjrm0VR6-d-2" value="Entry" style="rounded=1;" vertex="1" parent="1">
