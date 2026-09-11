@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UDrV9lbZebcjrm0VR6-d-1" value="圆柱形药材&#xa;初始T=28℃&#xa;C=2.55" style="ellipse" vertex="1" parent="1">
+        <mxCell id="UDrV9lbZebcjrm0VR6-d-1" value="圆柱形药材&#xa;初始T=28℃&#xa;C=2.55" style="ellipse;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-230" y="400" width="120" height="51.25" as="geometry" />
         </mxCell>
         <mxCell id="UDrV9lbZebcjrm0VR6-d-2" value="一维轴对称简化&#xa;只考虑径向r和时间t " style="rounded=1;" vertex="1" parent="1">
@@ -43,7 +43,7 @@
         <mxCell id="UDrV9lbZebcjrm0VR6-d-11" value="数值离散与迭代&lt;div&gt;Δr=0.1cm, Δt=1s&lt;/div&gt;&lt;div&gt;更新D(C)，求T和C&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="395" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UDrV9lbZebcjrm0VR6-d-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UDrV9lbZebcjrm0VR6-d-13" value="输出表1、表2&amp;nbsp;&lt;div&gt;result1.xlsx&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="395.63" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
