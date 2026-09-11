@@ -35,12 +35,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UDrV9lbZebcjrm0VR6-d-9" value="定解条件&lt;div&gt;初始、中心、表面&lt;/div&gt;&lt;div&gt;附件一，动态环境条件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="395.63" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="395.63" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDrV9lbZebcjrm0VR6-d-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UDrV9lbZebcjrm0VR6-d-11" target="UDrV9lbZebcjrm0VR6-d-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UDrV9lbZebcjrm0VR6-d-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UDrV9lbZebcjrm0VR6-d-11" value="数值离散与迭代&lt;div&gt;Δr=0.1cm, Δt=1s&lt;/div&gt;&lt;div&gt;更新D(C)，求T和C&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="395" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDrV9lbZebcjrm0VR6-d-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
