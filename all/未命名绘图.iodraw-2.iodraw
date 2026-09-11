@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UDrV9lbZebcjrm0VR6-d-1" value="圆柱形药材&#xa;初始T=28℃&#xa;C=2.55" style="ellipse" vertex="1" parent="1">
-          <mxGeometry x="-230" y="394.38" width="120" height="51.25" as="geometry" />
+          <mxGeometry x="-230" y="400" width="120" height="51.25" as="geometry" />
         </mxCell>
         <mxCell id="UDrV9lbZebcjrm0VR6-d-2" value="一维轴对称简化&#xa;只考虑径向r和时间t " style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="400" width="110" height="50" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UDrV9lbZebcjrm0VR6-d-4" value="温度场模型&#xa;径向导热方程&#xa;表面对流换热边界" style="rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="340" width="110" height="60" as="geometry" />
+          <mxGeometry x="70" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDrV9lbZebcjrm0VR6-d-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="UDrV9lbZebcjrm0VR6-d-2" target="UDrV9lbZebcjrm0VR6-d-4" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -24,6 +24,12 @@
         </mxCell>
         <mxCell id="UDrV9lbZebcjrm0VR6-d-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="UDrV9lbZebcjrm0VR6-d-2" target="UDrV9lbZebcjrm0VR6-d-6" parent="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UDrV9lbZebcjrm0VR6-d-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="450" as="sourcePoint" />
+            <mxPoint x="280" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
