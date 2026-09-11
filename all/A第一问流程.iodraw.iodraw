@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UDrV9lbZebcjrm0VR6-d-1" value="圆柱形药材&#xa;初始T=28℃&#xa;C=2.55" style="ellipse;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="UDrV9lbZebcjrm0VR6-d-1" value="圆柱形药材&#xa;初始T=28℃&#xa;C=2.55" style="ellipse;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-230" y="400" width="120" height="51.25" as="geometry" />
         </mxCell>
-        <mxCell id="UDrV9lbZebcjrm0VR6-d-2" value="一维轴对称简化&#xa;只考虑径向r和时间t " style="rounded=1;" vertex="1" parent="1">
+        <mxCell id="UDrV9lbZebcjrm0VR6-d-2" value="一维轴对称简化&#xa;只考虑径向r和时间t " style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-80" y="400" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UDrV9lbZebcjrm0VR6-d-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="UDrV9lbZebcjrm0VR6-d-1" target="UDrV9lbZebcjrm0VR6-d-2" parent="1">
