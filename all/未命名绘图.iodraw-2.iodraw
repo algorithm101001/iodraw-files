@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UDrV9lbZebcjrm0VR6-d-1" value="圆柱形药材&#xa;初始T=28℃&#xa;C=2.55&#xa;" style="ellipse" vertex="1" parent="1">
-          <mxGeometry x="-230" y="388.75" width="120" height="51.25" as="geometry" />
+        <mxCell id="UDrV9lbZebcjrm0VR6-d-1" value="圆柱形药材&#xa;初始T=28℃&#xa;C=2.55" style="ellipse" vertex="1" parent="1">
+          <mxGeometry x="-230" y="394.38" width="120" height="51.25" as="geometry" />
         </mxCell>
         <mxCell id="UDrV9lbZebcjrm0VR6-d-2" value="Entry" style="rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="405" width="80" height="30" as="geometry" />
