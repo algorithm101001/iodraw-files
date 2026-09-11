@@ -44,7 +44,7 @@
           <mxGeometry x="430" y="395" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDrV9lbZebcjrm0VR6-d-13" value="输出表1、表2&amp;nbsp;&lt;div&gt;result1.xlsx&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="610" y="395.63" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="395.63" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
