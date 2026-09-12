@@ -52,6 +52,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="0zip6VDWRzWOFducSVOD-36" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0zip6VDWRzWOFducSVOD-17">
+          <mxGeometry x="-0.1307" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0zip6VDWRzWOFducSVOD-9" value="判断：max_r C ≤ 0.15 ?&amp;nbsp;&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;flipH=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="253" y="292" width="191.5" height="40" as="geometry" />
         </mxCell>
