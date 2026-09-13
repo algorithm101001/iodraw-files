@@ -177,7 +177,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-38" value="将变域转化成定域" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=15;" vertex="1" parent="r3_xvh-aOyqMZ6csyhgm-42">
-          <mxGeometry x="350" width="140" height="50" as="geometry" />
+          <mxGeometry x="353" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-44" value=" 输出表6和t*&#xa;result4.xlsx" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=15;" vertex="1" parent="r3_xvh-aOyqMZ6csyhgm-42">
           <mxGeometry x="560" width="110" height="50" as="geometry" />
