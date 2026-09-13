@@ -152,6 +152,9 @@
             <mxPoint x="460" y="699.23" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="r3_xvh-aOyqMZ6csyhgm-34" value="水分场模型&#xa;径向扩散方程&#xa;表面对流传质边界" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="80" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
