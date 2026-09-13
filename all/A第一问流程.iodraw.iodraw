@@ -1,13 +1,13 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="py-J42w_vUY7pWwKacQS">
-    <mxGraphModel dx="2705" dy="1266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1289" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UDrV9lbZebcjrm0VR6-d-1" value="圆柱形药材&#xa;初始T=28℃&#xa;C=2.55" style="ellipse;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-230" y="400" width="120" height="51.25" as="geometry" />
         </mxCell>
-        <mxCell id="UDrV9lbZebcjrm0VR6-d-2" value="一维轴对称简化&#xa;只考虑径向r和时间t " style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="UDrV9lbZebcjrm0VR6-d-2" value="一维轴对称简化&#xa;考虑径向r&#xa;时间t " style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-80" y="400" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UDrV9lbZebcjrm0VR6-d-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" parent="1" source="UDrV9lbZebcjrm0VR6-d-1" target="UDrV9lbZebcjrm0VR6-d-2" edge="1">
@@ -54,8 +54,8 @@
         </mxCell>
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=21;endSize=6.78;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="800" as="sourcePoint" />
-            <mxPoint x="100" y="841.5384615384619" as="targetPoint" />
+            <mxPoint x="-40" y="490" as="sourcePoint" />
+            <mxPoint x="-40" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
