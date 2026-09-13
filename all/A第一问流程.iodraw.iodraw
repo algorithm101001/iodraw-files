@@ -105,6 +105,16 @@
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-19" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;对边界条件&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;的非线性处理&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="520" y="575" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="r3_xvh-aOyqMZ6csyhgm-20" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="850" as="sourcePoint" />
+            <mxPoint x="-190" y="900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-190" y="850" />
+              <mxPoint x="-140" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
