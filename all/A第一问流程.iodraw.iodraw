@@ -121,20 +121,23 @@
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-22" value="决策变量&#xa;目标函数&#xa;约束条件" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="120" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r3_xvh-aOyqMZ6csyhgm-24" value="粗细网格遍历" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="120" y="860" width="80" height="30" as="geometry" />
+        <mxCell id="r3_xvh-aOyqMZ6csyhgm-28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="860" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="r3_xvh-aOyqMZ6csyhgm-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" target="r3_xvh-aOyqMZ6csyhgm-24" parent="1">
+        <mxCell id="r3_xvh-aOyqMZ6csyhgm-24" value="粗细网格遍历" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r3_xvh-aOyqMZ6csyhgm-28">
+          <mxGeometry x="50" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r3_xvh-aOyqMZ6csyhgm-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" target="r3_xvh-aOyqMZ6csyhgm-24" parent="r3_xvh-aOyqMZ6csyhgm-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="910" as="sourcePoint" />
+            <mxPoint y="50" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r3_xvh-aOyqMZ6csyhgm-26" value="单调求根法" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="120" y="930" width="80" height="30" as="geometry" />
+        <mxCell id="r3_xvh-aOyqMZ6csyhgm-26" value="单调求根法" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="r3_xvh-aOyqMZ6csyhgm-28">
+          <mxGeometry x="50" y="70" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r3_xvh-aOyqMZ6csyhgm-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" target="r3_xvh-aOyqMZ6csyhgm-26" parent="1">
+        <mxCell id="r3_xvh-aOyqMZ6csyhgm-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" target="r3_xvh-aOyqMZ6csyhgm-26" parent="r3_xvh-aOyqMZ6csyhgm-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="910" as="sourcePoint" />
+            <mxPoint y="50" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
