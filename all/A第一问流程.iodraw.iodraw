@@ -129,7 +129,7 @@
             <mxPoint x="240" y="690" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r3_xvh-aOyqMZ6csyhgm-26" value="单调求根法" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="r3_xvh-aOyqMZ6csyhgm-26" value="单调求根法" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="290" y="710" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" target="r3_xvh-aOyqMZ6csyhgm-26" parent="1">
