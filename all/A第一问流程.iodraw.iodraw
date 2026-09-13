@@ -121,6 +121,21 @@
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-22" value="决策变量&#xa;目标函数&#xa;约束条件" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="120" y="660" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="r3_xvh-aOyqMZ6csyhgm-23" value="Start" style="ellipse" vertex="1" parent="1">
+          <mxGeometry x="140" y="565" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r3_xvh-aOyqMZ6csyhgm-24" value="Entry" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="530" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r3_xvh-aOyqMZ6csyhgm-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="r3_xvh-aOyqMZ6csyhgm-23" target="r3_xvh-aOyqMZ6csyhgm-24" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r3_xvh-aOyqMZ6csyhgm-26" value="Entry" style="rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="600" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r3_xvh-aOyqMZ6csyhgm-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" source="r3_xvh-aOyqMZ6csyhgm-23" target="r3_xvh-aOyqMZ6csyhgm-26" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
