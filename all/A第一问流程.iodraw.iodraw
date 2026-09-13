@@ -62,7 +62,7 @@
           <mxGeometry x="-280" y="960" width="380" height="100" as="geometry" />
         </mxCell>
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-13" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="84" y="570" width="330" height="40" as="geometry" />
+          <mxGeometry x="130" y="580" width="330" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-6" value="温度场" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;fontStyle=1" vertex="1" parent="r3_xvh-aOyqMZ6csyhgm-13">
           <mxGeometry width="110" height="40" as="geometry" />
