@@ -173,7 +173,7 @@
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="r3_xvh-aOyqMZ6csyhgm-42" source="r3_xvh-aOyqMZ6csyhgm-38" target="r3_xvh-aOyqMZ6csyhgm-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r3_xvh-aOyqMZ6csyhgm-38" value="将变域" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=15;" vertex="1" parent="r3_xvh-aOyqMZ6csyhgm-42">
+        <mxCell id="r3_xvh-aOyqMZ6csyhgm-38" value="将变域转化成定域" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=15;" vertex="1" parent="r3_xvh-aOyqMZ6csyhgm-42">
           <mxGeometry x="350" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-40" value="定域" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=15;" vertex="1" parent="r3_xvh-aOyqMZ6csyhgm-42">
