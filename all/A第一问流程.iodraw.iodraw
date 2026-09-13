@@ -162,16 +162,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-35" value="归一化半径" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="90" y="940" width="110" height="50" as="geometry" />
+          <mxGeometry x="85" y="940" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r3_xvh-aOyqMZ6csyhgm-38" target="r3_xvh-aOyqMZ6csyhgm-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-38" value="变域" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="290" y="940" width="110" height="50" as="geometry" />
+          <mxGeometry x="260" y="940" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-40" value="定域" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="490" y="940" width="110" height="50" as="geometry" />
+          <mxGeometry x="435" y="940" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
