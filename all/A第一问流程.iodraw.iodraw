@@ -7,7 +7,7 @@
         <mxCell id="UDrV9lbZebcjrm0VR6-d-1" value="圆柱形药材&#xa;初始T=28℃&#xa;C=2.55" style="ellipse;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="-250" y="394.38" width="140" height="61.25" as="geometry" />
         </mxCell>
-        <mxCell id="UDrV9lbZebcjrm0VR6-d-2" value="一维轴对称简化&#xa;考虑径向r&#xa;时间t " style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="UDrV9lbZebcjrm0VR6-d-2" value="一维轴对称简化&#xa;考虑径向r&#xa;时间t " style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-80" y="400" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UDrV9lbZebcjrm0VR6-d-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" parent="1" source="UDrV9lbZebcjrm0VR6-d-1" target="UDrV9lbZebcjrm0VR6-d-2" edge="1">
