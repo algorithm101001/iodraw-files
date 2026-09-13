@@ -47,7 +47,7 @@
           <mxGeometry x="600" y="395.63" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;引入恒温干燥模型&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="160" width="260" height="30" as="geometry" />
+          <mxGeometry x="-280" y="510" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;预热平衡阶段&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;密度、比热容与热传导系数是常数&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="280" width="170" height="100" as="geometry" />
@@ -58,7 +58,7 @@
             <mxPoint x="-40" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r3_xvh-aOyqMZ6csyhgm-6" value="温度场模型&#xa;径向导热方程&#xa;表面对流换热边界" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="r3_xvh-aOyqMZ6csyhgm-6" value="温度场" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="40" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-7" value="温度场模型&#xa;径向导热方程&#xa;表面对流换热边界" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
