@@ -46,8 +46,8 @@
         <mxCell id="UDrV9lbZebcjrm0VR6-d-13" value="输出表1、表2&amp;nbsp;&lt;div&gt;result1.xlsx&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="600" y="395.63" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r3_xvh-aOyqMZ6csyhgm-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;引入恒温干燥模型&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="160" width="60" height="30" as="geometry" />
+        <mxCell id="r3_xvh-aOyqMZ6csyhgm-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;引入恒温干燥模型&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="160" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;预热平衡阶段&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;密度、比热容与热传导系数是常数&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="280" width="170" height="100" as="geometry" />
