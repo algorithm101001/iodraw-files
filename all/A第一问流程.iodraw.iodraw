@@ -61,10 +61,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="r3_xvh-aOyqMZ6csyhgm-6" value="温度场" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="r3_xvh-aOyqMZ6csyhgm-6" value="温度场" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="160" y="580" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r3_xvh-aOyqMZ6csyhgm-7" value="水分场" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="r3_xvh-aOyqMZ6csyhgm-7" value="水分场" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=19;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="190" y="670" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-8" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;密度、比热容与热传导系数为含水率C的函数&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
