@@ -70,7 +70,7 @@
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-8" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;密度、比热容与热传导系数为含水率C的函数&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-280" y="960" width="380" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="r3_xvh-aOyqMZ6csyhgm-9" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="r3_xvh-aOyqMZ6csyhgm-9" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;endWidth=35;endSize=9.75;width=38.75;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-500" y="740" as="sourcePoint" />
             <mxPoint x="-380" y="740" as="targetPoint" />
