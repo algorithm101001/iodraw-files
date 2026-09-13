@@ -122,7 +122,7 @@
           <mxGeometry x="120" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-24" value="粗细网格遍历" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="290" y="640" width="80" height="30" as="geometry" />
+          <mxGeometry x="290" y="640" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" target="r3_xvh-aOyqMZ6csyhgm-24" parent="1">
           <mxGeometry relative="1" as="geometry">
