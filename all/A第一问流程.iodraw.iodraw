@@ -58,6 +58,9 @@
             <mxPoint x="-40" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="r3_xvh-aOyqMZ6csyhgm-6" value="温度场模型&#xa;径向导热方程&#xa;表面对流换热边界" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
