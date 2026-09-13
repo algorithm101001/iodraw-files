@@ -156,7 +156,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-34" value="尺寸变化" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="940" width="110" height="50" as="geometry" />
+          <mxGeometry x="-90" y="940" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r3_xvh-aOyqMZ6csyhgm-35" target="r3_xvh-aOyqMZ6csyhgm-38">
           <mxGeometry relative="1" as="geometry" />
