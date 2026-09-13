@@ -118,7 +118,7 @@
         <mxCell id="r3_xvh-aOyqMZ6csyhgm-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;搜索优化模型&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-180" y="640" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r3_xvh-aOyqMZ6csyhgm-22" value="决策变量&#xa;目标函数&#xa;约束条件" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="r3_xvh-aOyqMZ6csyhgm-22" value="决策变量&#xa;目标函数&#xa;约束条件" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="120" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
